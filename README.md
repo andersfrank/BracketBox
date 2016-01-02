@@ -2,7 +2,7 @@
 
 BracketBox is an Objective-C wrapper of Facebook's CSS flexbox [implementation](https://github.com/facebook/css-layout). For the original Swift wrapper see [SwiftBox](https://github.com/joshaber/SwiftBox).
 
-Check out [BracketBoxExamples](https://github.com/andersfrank/BracketBoxExamples) to se BracketBox in action.
+Check out [BracketBoxExamples](https://github.com/andersfrank/BracketBoxExamples) to see BracketBox in action.
 
 ## Supported Attributes
 
